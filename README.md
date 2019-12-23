@@ -1,3 +1,8 @@
+# My Bakery Manager
+A flutter application to pratice a different way to use pageview, with League of Legends Champions.
+
+<img src="static/1.jpg" width="200" >
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
