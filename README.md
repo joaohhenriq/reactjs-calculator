@@ -1,5 +1,5 @@
-# My Bakery Manager
-A flutter application to pratice a different way to use pageview, with League of Legends Champions.
+# Calculator App - ReactJS
+A calculator with ReactJS.
 
 <img src="static/1.jpg" width="200" >
 
